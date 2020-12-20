@@ -27,7 +27,7 @@ a bigger amount of virus in the first test and a lower (not detectable) amount o
 in the first test). 
 
 Carina Rehberge also claims that there is no connection between positive tests and death related to corona:
-`die Korrelation zwischen positiven Tests und Todesfällen ist nicht korrekt. Schauen Sie sich die Zahlen z. B. von Spanien an.`
+- `die Korrelation zwischen positiven Tests und Todesfällen ist nicht korrekt. Schauen Sie sich die Zahlen z. B. von Spanien an.`
 
 As a data scientist I had to look at this data! Ofcourse there is a clear correlation between positive corona tests and people dying because of/with corona. So this claim, as many other
 claims she made is wrong. 
