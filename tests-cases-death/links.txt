@@ -1,0 +1,2 @@
+covid test data: https://www.ecdc.europa.eu/en/publications-data/covid-19-testing
+erkrankung und todesfälle: https://de.statista.com/statistik/daten/studie/1103813/umfrage/erkrankungs-und-todesfaelle-aufgrund-des-coronavirus-in-spanien/
