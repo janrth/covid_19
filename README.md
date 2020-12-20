@@ -23,8 +23,7 @@ of the vaccination is by far bigger than possible risks), she is citing a letter
 
 When I was writing her and sharing my concern that her text is bring accross a dangerous message to the reader, she was saying that her article aims 'to make the reader think'.
 She was also sharing examples where people were tested positive first and then in a later run were tested negative. Instead of realizing that this is because these persons have had
-a bigger amount of virus in the first test and a lower (not detectable) amount of virus in the second test, she claims that this shows that the tests is unreliable (false positive
-in the first test). 
+a bigger amount of virus in the first test and a lower (not detectable) amount of virus in the second test, she claims that this shows that the test is unreliable (false positive in the first test). 
 
 Carina Rehberge also claims that there is no connection between positive tests and death related to corona:
 - `die Korrelation zwischen positiven Tests und Todesfällen ist nicht korrekt. Schauen Sie sich die Zahlen z. B. von Spanien an.`
